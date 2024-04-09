@@ -1,0 +1,6 @@
+jupyterlab
+imagesize
+matplotlib
+pandas
+Pillow
+tensorflow
