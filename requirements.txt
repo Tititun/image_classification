@@ -1,6 +1,10 @@
 jupyterlab
+h5py
 imagesize
 matplotlib
 pandas
 Pillow
-tensorflow
+pyyaml
+scikit-learn
+tensorflow[and-cuda]
+tensorflow_datasets
